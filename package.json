@@ -18,17 +18,15 @@
     "url": "https://github.com/kogsio/littletiers/issues"
   },
   "homepage": "https://github.com/kogsio/littletiers#readme",
-  "dependencies": {
-    "faker": "^5.5.3",
-    "heroku": "^8.1.9",
-    "lowdb": "^1.0.0"
-  },
   "engines": {
     "node": "14.x"
   },
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "faker": "^6.6.6",
+    "heroku": "^8.11.2",
+    "lowdb": "^7.0.1"
   }
 }
